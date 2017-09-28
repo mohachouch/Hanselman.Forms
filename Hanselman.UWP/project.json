@@ -7,10 +7,10 @@
     "Plugin.MediaManager.Forms": "0.4.0",
     "Plugin.Share": "6.1.0.19-beta",
     "Xam.Plugins.Forms.ImageCircle": "1.8.2.19-beta",
-    "Xamarin.Forms": "2.3.4.247"
+    "Xamarin.Forms": "3.0.0-ci0001"
   },
   "frameworks": {
-    "uap10.0": {}
+    "uap10.0.10240": {}
   },
   "runtimes": {
     "win10-arm": {},
