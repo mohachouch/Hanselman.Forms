@@ -25,6 +25,8 @@ namespace Hanselman.WPF
 		{
 			InitializeComponent();
 			Xamarin.Forms.Forms.Init();
+			Portable.App.IsWindows10 = true;
+			Portable.Views.RootPage.IsUWPDesktop = true;
 			LoadApplication(new Hanselman.Portable.App());
 		}
 	}
